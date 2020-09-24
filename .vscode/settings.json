@@ -1,0 +1,9 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "cSpell.ignoreWords": [
+    "csrf",
+    "csrf token",
+    "token"
+  ]
+}
